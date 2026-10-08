@@ -1,0 +1,501 @@
+Order Date,Ship Date,Category,Sub-Category,Sales,Quantity,Discount,Profit,Region,State,City,Customer ID,Ship Mode
+2022-04-13,2022-09-05,Furniture,Tables,186.05,5,0.3,148.35,South,Florida,Los Angeles,CUST0151,Standard Class
+2022-12-15,2022-09-16,Office Supplies,Phones,198.1,3,0.2,197.64,West,New York,Miami,CUST0192,Standard Class
+2022-09-28,2022-06-10,Office Supplies,Accessories,494.07,1,0.1,0.16,Central,Texas,Miami,CUST0040,Second Class
+2022-04-17,2022-12-07,Office Supplies,Tables,39.25,8,0.1,198.66,Central,California,Miami,CUST0242,Standard Class
+2022-03-13,2022-06-02,Furniture,Accessories,436.18,5,0.1,-27.55,Central,New York,Miami,CUST0138,Second Class
+2022-07-08,2022-06-28,Office Supplies,Phones,297.76,3,0.0,-49.42,West,Texas,Miami,CUST0180,Second Class
+2022-01-21,2022-06-13,Technology,Chairs,230.54,7,0.1,-38.96,Central,California,New York City,CUST0200,Standard Class
+2022-04-13,2022-02-03,Technology,Binders,368.12,7,0.0,35.45,Central,New York,Miami,CUST0203,Standard Class
+2022-05-02,2022-06-29,Furniture,Tables,253.6,1,0.0,108.23,South,New York,New York City,CUST0061,Second Class
+2022-08-03,2022-04-12,Technology,Binders,439.24,9,0.3,-32.74,West,Texas,Houston,CUST0192,Second Class
+2022-11-27,2022-09-26,Technology,Phones,452.34,2,0.1,-48.58,East,California,Miami,CUST0005,Standard Class
+2022-03-29,2022-11-20,Furniture,Tables,222.43,5,0.1,184.27,South,California,Miami,CUST0237,Standard Class
+2022-04-10,2022-03-07,Office Supplies,Accessories,152.88,5,0.2,155.48,South,New York,Los Angeles,CUST0181,Second Class
+2022-12-26,2022-06-18,Office Supplies,Paper,304.33,8,0.3,152.3,East,New York,Houston,CUST0037,Second Class
+2022-06-01,2022-11-27,Office Supplies,Binders,457.93,8,0.2,171.11,South,New York,Miami,CUST0056,Second Class
+2022-05-11,2022-02-13,Furniture,Tables,121.12,7,0.3,125.01,West,California,Miami,CUST0237,First Class
+2022-05-30,2022-02-14,Technology,Binders,319.02,7,0.1,-23.9,Central,Texas,Houston,CUST0197,Second Class
+2022-11-05,2022-10-13,Office Supplies,Tables,323.15,6,0.0,49.78,West,Texas,New York City,CUST0073,First Class
+2022-09-15,2022-01-13,Office Supplies,Chairs,371.89,6,0.0,130.79,East,California,Miami,CUST0059,Standard Class
+2022-12-10,2022-04-06,Furniture,Accessories,83.15,9,0.0,20.08,East,Florida,Los Angeles,CUST0240,Standard Class
+2022-10-21,2022-10-30,Office Supplies,Binders,363.6,6,0.0,121.85,South,Texas,Miami,CUST0002,Second Class
+2022-07-11,2022-09-11,Furniture,Paper,456.34,2,0.0,-43.88,West,New York,Los Angeles,CUST0188,Standard Class
+2022-10-04,2022-08-31,Technology,Paper,106.25,2,0.2,26.53,West,Florida,Los Angeles,CUST0030,Standard Class
+2022-06-10,2022-02-05,Furniture,Phones,134.02,5,0.3,87.28,East,Florida,Miami,CUST0267,Standard Class
+2022-11-10,2022-08-04,Furniture,Tables,486.27,4,0.1,108.02,West,Texas,Miami,CUST0108,Standard Class
+2022-01-22,2022-12-04,Furniture,Binders,106.87,2,0.2,94.26,East,Florida,Los Angeles,CUST0090,First Class
+2022-09-10,2022-04-01,Furniture,Phones,430.1,3,0.3,124.44,West,Florida,Houston,CUST0205,First Class
+2022-08-24,2022-09-22,Technology,Binders,256.29,7,0.0,-48.48,West,Texas,Houston,CUST0220,Second Class
+2022-12-11,2022-04-04,Technology,Tables,138.67,8,0.3,-24.76,West,Texas,Miami,CUST0094,Second Class
+2022-02-18,2022-04-01,Office Supplies,Paper,437.96,6,0.3,167.24,East,Florida,New York City,CUST0103,Second Class
+2022-02-28,2022-04-26,Technology,Chairs,233.75,5,0.0,120.44,South,New York,Houston,CUST0223,Standard Class
+2022-06-19,2022-04-16,Technology,Paper,267.11,1,0.0,-21.77,West,California,Miami,CUST0186,Standard Class
+2022-07-07,2022-07-16,Office Supplies,Phones,192.43,8,0.0,160.52,East,Florida,Houston,CUST0184,First Class
+2022-09-28,2022-11-11,Technology,Accessories,304.62,3,0.1,10.56,East,Florida,New York City,CUST0162,First Class
+2022-07-09,2022-04-25,Furniture,Chairs,98.49,6,0.0,69.56,West,New York,Miami,CUST0247,Second Class
+2022-06-24,2022-03-17,Furniture,Phones,207.72,3,0.1,-13.7,West,Florida,New York City,CUST0031,First Class
+2022-02-20,2022-08-06,Office Supplies,Tables,485.32,7,0.0,127.53,South,Florida,Miami,CUST0052,First Class
+2022-12-30,2022-10-05,Office Supplies,Chairs,143.9,7,0.1,116.71,East,California,New York City,CUST0076,First Class
+2022-02-24,2022-09-07,Office Supplies,Phones,335.23,9,0.3,2.78,East,California,Houston,CUST0278,First Class
+2022-09-01,2022-06-14,Furniture,Tables,176.09,5,0.2,165.85,Central,California,Houston,CUST0040,First Class
+2022-11-16,2022-12-24,Technology,Paper,391.27,8,0.3,50.33,East,Texas,New York City,CUST0101,Second Class
+2022-05-11,2022-07-12,Furniture,Accessories,82.82,8,0.3,23.13,South,Texas,New York City,CUST0111,Second Class
+2022-11-03,2022-08-16,Office Supplies,Tables,485.51,1,0.0,-11.92,Central,California,New York City,CUST0249,First Class
+2022-05-15,2022-06-27,Technology,Binders,237.82,5,0.1,16.54,Central,California,Miami,CUST0191,Second Class
+2022-01-21,2022-04-10,Technology,Tables,133.3,3,0.2,-44.49,Central,Texas,Houston,CUST0182,Standard Class
+2022-11-25,2022-02-06,Furniture,Tables,55.28,1,0.0,95.81,West,New York,Miami,CUST0209,First Class
+2022-06-16,2022-04-07,Office Supplies,Accessories,101.48,4,0.0,160.56,West,Florida,Houston,CUST0022,Standard Class
+2022-10-01,2022-06-02,Furniture,Binders,269.49,8,0.0,87.25,East,Florida,Los Angeles,CUST0166,Second Class
+2022-03-30,2022-06-01,Technology,Phones,181.76,3,0.3,4.82,Central,California,Miami,CUST0099,Second Class
+2022-11-12,2022-07-10,Furniture,Phones,417.86,2,0.1,-41.58,South,New York,Houston,CUST0208,Standard Class
+2022-01-14,2022-08-13,Furniture,Tables,226.83,9,0.1,3.66,West,Texas,Houston,CUST0008,Second Class
+2022-08-30,2022-02-07,Office Supplies,Binders,139.38,5,0.2,54.03,South,California,Miami,CUST0190,First Class
+2022-09-22,2022-09-26,Office Supplies,Binders,316.23,7,0.1,139.9,South,New York,Miami,CUST0175,Standard Class
+2022-12-12,2023-01-05,Technology,Accessories,359.25,2,0.1,-3.04,West,New York,Houston,CUST0273,First Class
+2022-02-22,2022-07-03,Furniture,Paper,100.18,9,0.0,129.95,West,New York,Miami,CUST0017,Standard Class
+2022-12-06,2022-01-14,Furniture,Phones,100.46,9,0.0,166.73,West,Texas,New York City,CUST0090,Second Class
+2022-04-02,2022-10-07,Furniture,Accessories,37.6,4,0.3,63.49,West,Texas,Miami,CUST0141,Standard Class
+2022-09-21,2022-08-06,Technology,Chairs,373.47,4,0.0,155.36,Central,Florida,Miami,CUST0145,Standard Class
+2022-02-04,2022-12-22,Technology,Phones,338.63,6,0.0,88.66,Central,Florida,Miami,CUST0166,First Class
+2022-07-25,2022-12-28,Office Supplies,Accessories,247.82,6,0.0,109.27,Central,New York,Houston,CUST0078,Second Class
+2022-03-22,2022-10-14,Office Supplies,Phones,425.2,1,0.0,81.57,Central,New York,New York City,CUST0262,First Class
+2022-02-19,2022-10-01,Office Supplies,Paper,406.72,9,0.3,65.79,East,Texas,Los Angeles,CUST0163,Second Class
+2022-12-26,2023-01-05,Furniture,Chairs,300.97,2,0.0,8.66,Central,Florida,Los Angeles,CUST0014,First Class
+2022-01-02,2022-03-04,Furniture,Paper,436.77,5,0.2,25.8,West,New York,New York City,CUST0239,Standard Class
+2022-02-23,2022-03-26,Office Supplies,Chairs,118.8,9,0.2,22.49,South,Florida,New York City,CUST0072,First Class
+2022-04-16,2023-01-04,Furniture,Tables,73.72,4,0.2,90.82,Central,Florida,New York City,CUST0143,Second Class
+2022-09-17,2022-08-06,Office Supplies,Accessories,149.48,3,0.2,-20.01,East,New York,Houston,CUST0283,Second Class
+2022-11-06,2022-12-09,Technology,Chairs,47.4,7,0.0,179.2,West,Texas,Los Angeles,CUST0269,Standard Class
+2022-07-10,2022-07-07,Office Supplies,Paper,274.96,6,0.2,130.16,South,New York,New York City,CUST0241,Second Class
+2022-08-06,2022-01-20,Technology,Phones,469.57,8,0.0,50.36,South,New York,Houston,CUST0245,First Class
+2022-02-13,2022-06-27,Furniture,Chairs,38.88,3,0.3,-10.34,Central,Florida,Los Angeles,CUST0163,Standard Class
+2022-06-11,2022-04-11,Office Supplies,Accessories,78.61,5,0.2,170.5,South,New York,Miami,CUST0060,Second Class
+2022-07-21,2022-08-22,Furniture,Chairs,237.06,4,0.1,155.94,Central,Texas,Houston,CUST0006,Second Class
+2022-09-27,2022-03-18,Technology,Binders,468.26,4,0.2,130.43,Central,New York,Los Angeles,CUST0197,First Class
+2022-12-17,2022-09-23,Technology,Phones,171.75,4,0.2,17.89,West,Texas,Houston,CUST0058,First Class
+2022-10-31,2022-10-12,Technology,Accessories,263.47,8,0.0,50.61,West,Texas,Los Angeles,CUST0217,Standard Class
+2022-09-28,2022-07-26,Furniture,Accessories,39.95,6,0.2,-24.31,East,Florida,Los Angeles,CUST0026,Second Class
+2022-08-03,2022-08-12,Furniture,Tables,91.2,3,0.1,-2.74,West,California,Miami,CUST0005,First Class
+2022-09-09,2022-02-22,Furniture,Paper,493.58,5,0.0,145.75,West,California,Houston,CUST0020,Standard Class
+2022-07-09,2022-12-06,Furniture,Tables,483.26,6,0.0,128.76,Central,Florida,New York City,CUST0198,Second Class
+2022-10-23,2023-01-03,Technology,Accessories,22.37,5,0.3,98.37,West,New York,Miami,CUST0059,Second Class
+2022-08-01,2022-05-25,Technology,Phones,476.87,6,0.3,173.93,Central,Florida,Miami,CUST0242,Standard Class
+2022-07-27,2022-03-11,Office Supplies,Chairs,326.78,8,0.2,95.82,Central,Texas,Los Angeles,CUST0146,Standard Class
+2022-08-25,2022-04-10,Office Supplies,Chairs,436.6,7,0.3,66.74,West,California,New York City,CUST0273,First Class
+2022-12-04,2022-01-26,Furniture,Phones,238.28,5,0.3,35.09,East,Florida,Houston,CUST0249,Second Class
+2022-02-22,2022-02-23,Technology,Accessories,267.49,6,0.3,185.11,East,New York,New York City,CUST0014,Second Class
+2022-10-07,2022-06-01,Technology,Chairs,254.65,4,0.0,-29.32,South,Florida,New York City,CUST0013,Second Class
+2022-08-05,2022-05-25,Technology,Chairs,340.09,9,0.0,182.72,South,California,New York City,CUST0044,Standard Class
+2022-09-09,2022-02-27,Office Supplies,Chairs,87.03,4,0.0,156.68,West,Florida,New York City,CUST0019,First Class
+2022-07-07,2022-02-09,Office Supplies,Paper,34.39,1,0.3,-17.52,East,Florida,New York City,CUST0063,Second Class
+2022-02-10,2022-04-20,Technology,Paper,167.81,7,0.0,91.25,Central,California,Los Angeles,CUST0239,Standard Class
+2022-06-06,2022-07-01,Technology,Binders,358.25,7,0.3,166.64,South,Texas,Los Angeles,CUST0100,Second Class
+2022-01-15,2022-02-12,Technology,Tables,116.89,4,0.0,92.95,Central,Texas,Miami,CUST0163,First Class
+2022-10-28,2022-07-06,Office Supplies,Phones,343.25,3,0.0,176.8,South,California,Los Angeles,CUST0122,Second Class
+2022-03-06,2022-08-12,Technology,Phones,485.56,8,0.1,185.75,West,Florida,Miami,CUST0044,First Class
+2022-12-11,2022-05-03,Technology,Phones,65.07,5,0.2,55.6,East,California,Miami,CUST0145,First Class
+2022-11-23,2022-05-14,Furniture,Binders,342.85,7,0.3,44.33,South,Texas,Houston,CUST0050,Second Class
+2022-01-09,2022-06-13,Furniture,Paper,233.0,4,0.1,184.08,East,New York,New York City,CUST0065,Second Class
+2022-12-10,2022-08-04,Office Supplies,Accessories,436.71,4,0.0,118.79,Central,Florida,Los Angeles,CUST0288,First Class
+2022-05-09,2022-08-10,Technology,Accessories,105.03,8,0.3,-20.99,West,Texas,Houston,CUST0164,Standard Class
+2022-05-16,2022-08-24,Technology,Binders,352.46,8,0.0,-39.43,East,Florida,Los Angeles,CUST0141,First Class
+2022-03-04,2022-11-28,Furniture,Accessories,422.3,2,0.2,91.16,West,California,Miami,CUST0128,Second Class
+2022-05-19,2022-05-27,Office Supplies,Phones,473.41,2,0.1,182.54,East,New York,Los Angeles,CUST0239,Second Class
+2022-03-22,2022-08-28,Furniture,Tables,347.96,3,0.2,161.06,Central,California,New York City,CUST0296,Standard Class
+2022-06-12,2022-03-18,Furniture,Chairs,258.64,3,0.1,118.96,Central,New York,Miami,CUST0187,First Class
+2022-10-16,2022-01-10,Furniture,Paper,316.57,1,0.0,-15.22,West,Florida,Miami,CUST0208,First Class
+2022-09-18,2022-03-16,Furniture,Paper,437.07,3,0.2,13.56,Central,Florida,Houston,CUST0220,First Class
+2022-08-19,2022-09-11,Technology,Binders,293.89,6,0.2,168.88,South,California,New York City,CUST0190,Second Class
+2022-02-10,2022-08-19,Technology,Paper,34.59,8,0.0,-4.3,East,New York,Miami,CUST0284,First Class
+2022-01-28,2022-01-08,Furniture,Phones,466.86,6,0.2,19.61,Central,New York,New York City,CUST0237,Standard Class
+2022-05-15,2022-06-24,Office Supplies,Accessories,350.97,5,0.3,-17.6,South,Florida,Los Angeles,CUST0194,Second Class
+2022-07-20,2022-05-22,Office Supplies,Phones,344.73,4,0.1,119.03,West,California,New York City,CUST0287,Second Class
+2022-11-24,2022-06-18,Office Supplies,Binders,123.52,3,0.1,186.0,South,New York,Miami,CUST0259,First Class
+2022-09-25,2022-06-20,Office Supplies,Phones,336.27,4,0.1,17.24,West,Florida,Houston,CUST0246,Standard Class
+2022-02-02,2022-10-11,Furniture,Accessories,209.05,7,0.3,68.85,West,Texas,Miami,CUST0136,Second Class
+2022-02-17,2022-05-03,Technology,Tables,332.59,1,0.1,108.58,East,California,New York City,CUST0280,Second Class
+2022-03-03,2022-07-14,Office Supplies,Binders,71.16,7,0.0,199.87,East,Texas,New York City,CUST0271,First Class
+2022-08-04,2022-01-06,Furniture,Tables,335.77,1,0.2,-23.8,South,California,Miami,CUST0171,First Class
+2022-10-20,2022-01-30,Office Supplies,Chairs,499.72,2,0.3,74.64,East,Florida,New York City,CUST0159,Standard Class
+2022-04-09,2022-06-15,Office Supplies,Tables,43.14,4,0.1,46.28,East,New York,Los Angeles,CUST0201,First Class
+2022-06-21,2022-12-06,Furniture,Chairs,489.04,1,0.0,166.46,East,New York,Miami,CUST0045,Standard Class
+2022-12-26,2022-05-17,Technology,Chairs,215.32,9,0.2,68.99,South,New York,Houston,CUST0264,Second Class
+2022-08-02,2023-01-01,Technology,Tables,437.96,6,0.2,-22.26,Central,California,Miami,CUST0071,Standard Class
+2022-02-04,2022-11-18,Furniture,Binders,395.55,1,0.3,108.61,East,Florida,Los Angeles,CUST0103,Standard Class
+2022-08-15,2022-12-09,Technology,Accessories,292.17,1,0.3,142.7,East,Texas,Los Angeles,CUST0125,Standard Class
+2022-04-11,2022-05-26,Furniture,Phones,374.46,6,0.3,-49.28,South,Florida,Los Angeles,CUST0286,Second Class
+2022-05-11,2022-11-24,Furniture,Phones,441.69,4,0.0,164.74,Central,Texas,Los Angeles,CUST0230,First Class
+2022-09-14,2022-08-06,Furniture,Accessories,213.99,4,0.0,-3.49,East,California,Los Angeles,CUST0146,Second Class
+2022-01-05,2022-10-29,Technology,Chairs,176.98,6,0.3,88.02,West,California,Houston,CUST0197,First Class
+2022-08-06,2022-05-13,Furniture,Chairs,340.44,7,0.1,53.95,South,Texas,New York City,CUST0221,Standard Class
+2022-09-12,2022-10-20,Office Supplies,Binders,407.77,9,0.2,129.91,East,Texas,Los Angeles,CUST0060,Standard Class
+2022-12-25,2022-03-12,Technology,Paper,385.9,5,0.2,42.79,East,Texas,Los Angeles,CUST0098,Standard Class
+2022-10-10,2022-09-10,Technology,Tables,402.95,9,0.0,167.44,West,Florida,Miami,CUST0171,Standard Class
+2022-07-26,2022-10-03,Technology,Chairs,229.08,4,0.2,132.62,West,Texas,Houston,CUST0173,Standard Class
+2022-01-15,2022-12-31,Technology,Phones,412.56,2,0.1,111.93,South,California,Houston,CUST0151,First Class
+2022-12-12,2022-07-02,Office Supplies,Binders,77.7,3,0.2,149.06,South,California,New York City,CUST0122,First Class
+2022-02-11,2022-06-17,Technology,Tables,281.35,1,0.0,138.51,West,New York,Houston,CUST0108,Standard Class
+2022-06-28,2022-04-02,Technology,Binders,22.76,6,0.0,-41.02,South,Texas,Miami,CUST0004,Second Class
+2022-03-04,2022-07-22,Furniture,Tables,175.8,6,0.1,48.68,West,Florida,Miami,CUST0093,Second Class
+2022-12-18,2022-12-13,Technology,Tables,195.9,1,0.1,182.7,East,Florida,New York City,CUST0006,Standard Class
+2022-08-19,2022-01-20,Office Supplies,Accessories,210.16,3,0.2,-18.57,West,Florida,Miami,CUST0288,First Class
+2022-08-29,2022-02-09,Office Supplies,Chairs,353.82,5,0.2,134.27,West,New York,Los Angeles,CUST0106,Second Class
+2022-02-21,2022-05-07,Office Supplies,Binders,206.51,3,0.0,193.65,Central,California,Los Angeles,CUST0146,Second Class
+2022-04-06,2022-06-23,Office Supplies,Binders,235.37,3,0.1,-36.95,West,Florida,Miami,CUST0271,Second Class
+2022-08-10,2022-05-22,Technology,Accessories,134.02,3,0.1,120.55,West,California,New York City,CUST0096,Standard Class
+2022-08-19,2022-08-31,Technology,Phones,199.16,5,0.1,67.04,Central,New York,Houston,CUST0229,Second Class
+2022-08-25,2022-08-09,Office Supplies,Phones,129.09,5,0.2,94.79,South,Texas,New York City,CUST0202,Second Class
+2022-05-23,2022-05-07,Office Supplies,Chairs,55.13,4,0.1,-28.66,Central,Texas,Houston,CUST0212,Second Class
+2022-06-20,2022-02-28,Technology,Chairs,309.66,1,0.0,-39.25,East,Texas,Miami,CUST0006,Second Class
+2022-01-29,2022-05-29,Office Supplies,Paper,340.74,5,0.0,116.72,Central,Florida,Miami,CUST0112,First Class
+2022-02-05,2022-11-14,Furniture,Accessories,317.36,5,0.2,155.83,East,Texas,Los Angeles,CUST0106,Standard Class
+2022-01-13,2022-12-28,Office Supplies,Phones,242.48,4,0.3,145.5,South,Florida,Houston,CUST0139,Standard Class
+2022-06-09,2022-01-02,Office Supplies,Tables,202.3,6,0.2,85.95,Central,New York,New York City,CUST0299,First Class
+2022-11-23,2022-12-15,Furniture,Binders,434.4,4,0.3,-25.03,Central,New York,Miami,CUST0096,First Class
+2022-07-06,2022-07-10,Furniture,Chairs,269.16,7,0.1,122.01,South,Florida,New York City,CUST0297,Standard Class
+2022-08-31,2022-07-11,Technology,Binders,250.01,7,0.2,10.47,East,California,Los Angeles,CUST0214,Second Class
+2022-03-27,2023-01-05,Technology,Binders,32.31,2,0.0,177.77,Central,Texas,Houston,CUST0291,Second Class
+2022-10-11,2022-11-09,Furniture,Paper,183.8,3,0.1,159.57,East,Texas,Houston,CUST0022,Standard Class
+2022-03-07,2022-04-28,Furniture,Phones,202.49,1,0.0,127.35,Central,Texas,Miami,CUST0193,Second Class
+2022-06-19,2022-05-15,Technology,Chairs,211.43,8,0.1,187.21,West,Florida,Houston,CUST0150,First Class
+2022-02-14,2022-02-28,Office Supplies,Binders,298.48,9,0.2,-42.14,Central,New York,Miami,CUST0247,Second Class
+2022-03-03,2022-02-14,Furniture,Chairs,276.13,4,0.3,134.05,South,Texas,Los Angeles,CUST0267,Second Class
+2022-05-14,2022-06-23,Technology,Tables,311.79,6,0.1,32.56,South,New York,Houston,CUST0251,Second Class
+2022-10-11,2022-06-10,Office Supplies,Paper,387.14,9,0.3,176.52,East,Texas,Miami,CUST0003,Standard Class
+2022-01-28,2022-06-23,Furniture,Tables,410.23,6,0.1,16.67,Central,Texas,New York City,CUST0076,First Class
+2022-04-18,2022-11-14,Office Supplies,Chairs,364.7,9,0.0,131.21,East,Florida,Miami,CUST0087,Second Class
+2022-02-13,2022-10-31,Technology,Chairs,478.65,4,0.0,169.41,East,California,Houston,CUST0270,Standard Class
+2022-12-06,2022-05-30,Furniture,Phones,28.75,8,0.1,-39.59,West,Florida,Los Angeles,CUST0225,Second Class
+2022-10-13,2022-03-22,Office Supplies,Binders,113.97,9,0.3,49.41,West,Texas,Houston,CUST0018,First Class
+2022-11-27,2022-08-02,Furniture,Binders,23.63,4,0.2,140.58,South,Texas,Houston,CUST0113,Second Class
+2022-05-08,2022-07-23,Office Supplies,Tables,330.79,5,0.2,63.73,East,California,Miami,CUST0251,First Class
+2022-12-14,2022-09-10,Technology,Paper,451.05,8,0.0,16.81,South,New York,New York City,CUST0233,Second Class
+2022-08-19,2022-08-18,Technology,Accessories,136.87,6,0.2,4.95,Central,New York,Houston,CUST0279,First Class
+2022-07-09,2022-06-14,Furniture,Binders,464.98,7,0.0,-17.12,East,Texas,New York City,CUST0202,Second Class
+2022-08-13,2022-08-16,Office Supplies,Phones,48.93,3,0.2,164.28,East,New York,Miami,CUST0083,First Class
+2022-10-10,2022-05-28,Furniture,Tables,468.53,7,0.1,93.84,Central,Texas,New York City,CUST0125,Second Class
+2022-05-01,2022-01-21,Furniture,Tables,188.78,8,0.0,-30.9,Central,California,Miami,CUST0175,Second Class
+2022-04-26,2022-02-17,Office Supplies,Accessories,68.68,6,0.0,45.65,South,California,Los Angeles,CUST0069,Standard Class
+2022-08-21,2022-08-22,Office Supplies,Phones,253.22,9,0.1,41.93,South,Texas,New York City,CUST0047,Standard Class
+2022-09-16,2022-11-02,Office Supplies,Paper,143.25,6,0.0,-4.57,Central,California,New York City,CUST0256,First Class
+2022-12-25,2022-01-15,Technology,Phones,156.74,9,0.2,58.88,South,Florida,Los Angeles,CUST0215,Second Class
+2022-07-17,2022-05-24,Furniture,Paper,167.5,4,0.2,33.02,Central,Florida,New York City,CUST0030,First Class
+2022-05-17,2022-01-02,Furniture,Phones,405.45,8,0.0,35.45,East,California,Los Angeles,CUST0281,Standard Class
+2022-11-14,2022-02-24,Technology,Phones,278.8,4,0.2,134.76,East,Texas,Houston,CUST0237,First Class
+2022-06-14,2022-09-17,Office Supplies,Chairs,169.43,2,0.3,5.82,West,Texas,Miami,CUST0248,First Class
+2022-08-13,2022-05-25,Technology,Tables,312.96,9,0.0,110.46,East,California,Los Angeles,CUST0025,Standard Class
+2022-11-03,2022-01-13,Technology,Phones,363.75,5,0.1,92.66,Central,New York,New York City,CUST0074,Second Class
+2022-08-22,2022-11-27,Technology,Accessories,150.86,4,0.3,92.02,South,Florida,Los Angeles,CUST0206,First Class
+2022-06-21,2022-08-13,Furniture,Phones,218.5,2,0.0,115.75,West,New York,New York City,CUST0094,Standard Class
+2022-06-01,2022-09-30,Technology,Binders,78.51,1,0.1,87.1,South,Texas,Houston,CUST0127,Second Class
+2022-11-11,2022-12-25,Furniture,Tables,106.95,7,0.2,169.81,Central,Texas,Los Angeles,CUST0025,Standard Class
+2022-06-09,2022-06-06,Furniture,Binders,346.94,6,0.1,118.9,East,New York,Houston,CUST0116,First Class
+2022-04-06,2022-01-09,Furniture,Tables,107.09,2,0.3,86.74,West,California,Miami,CUST0048,Second Class
+2022-08-21,2022-05-03,Office Supplies,Binders,272.08,8,0.2,157.44,Central,New York,New York City,CUST0226,Second Class
+2022-06-29,2022-12-15,Furniture,Phones,360.34,4,0.0,101.54,West,New York,New York City,CUST0266,Standard Class
+2022-04-23,2022-06-14,Furniture,Phones,71.3,8,0.2,22.79,West,Florida,Houston,CUST0099,Standard Class
+2022-11-14,2022-04-01,Office Supplies,Chairs,292.31,7,0.0,1.77,East,Florida,Miami,CUST0011,Standard Class
+2022-02-21,2022-05-17,Furniture,Accessories,143.15,5,0.0,-11.92,Central,New York,Los Angeles,CUST0085,Second Class
+2022-09-25,2022-07-06,Technology,Binders,482.2,8,0.1,174.86,South,New York,Los Angeles,CUST0214,Second Class
+2022-10-22,2022-11-13,Technology,Paper,252.1,9,0.1,127.53,West,Texas,New York City,CUST0173,First Class
+2022-04-23,2022-06-28,Furniture,Chairs,406.88,5,0.1,184.34,West,Florida,Houston,CUST0209,Second Class
+2022-04-11,2022-01-29,Office Supplies,Binders,284.11,5,0.3,100.82,South,Florida,Houston,CUST0064,First Class
+2022-04-23,2022-08-09,Technology,Binders,40.84,2,0.3,68.35,Central,Texas,Los Angeles,CUST0258,Standard Class
+2022-03-22,2022-12-24,Office Supplies,Chairs,323.91,5,0.1,-35.07,West,California,Miami,CUST0121,Standard Class
+2022-07-06,2022-02-11,Office Supplies,Phones,476.67,3,0.3,117.91,West,Florida,Miami,CUST0298,Second Class
+2022-04-23,2022-08-17,Technology,Binders,308.77,7,0.2,95.55,West,Florida,Los Angeles,CUST0054,Standard Class
+2022-01-02,2022-07-12,Office Supplies,Phones,413.21,5,0.2,197.55,Central,California,Los Angeles,CUST0272,Standard Class
+2022-05-10,2022-05-26,Technology,Chairs,444.42,8,0.3,9.79,Central,Florida,Houston,CUST0241,Second Class
+2022-08-08,2022-07-21,Office Supplies,Phones,129.48,1,0.3,82.68,South,Florida,Miami,CUST0243,First Class
+2022-02-23,2022-08-01,Technology,Tables,121.78,3,0.2,112.74,Central,California,Los Angeles,CUST0018,Second Class
+2022-12-09,2022-08-09,Furniture,Paper,313.27,3,0.0,111.15,Central,California,Los Angeles,CUST0187,First Class
+2022-08-12,2022-08-29,Technology,Binders,217.29,9,0.2,90.32,East,New York,New York City,CUST0144,Second Class
+2022-08-13,2022-02-16,Technology,Accessories,423.13,5,0.2,144.23,South,Texas,Los Angeles,CUST0262,Second Class
+2022-05-06,2022-02-05,Technology,Paper,452.01,9,0.3,1.25,West,Texas,Los Angeles,CUST0239,Standard Class
+2022-05-10,2022-09-11,Technology,Phones,189.64,9,0.2,131.41,Central,California,Miami,CUST0298,Second Class
+2022-02-22,2022-03-24,Office Supplies,Binders,133.7,1,0.3,104.93,West,California,Houston,CUST0076,Second Class
+2022-06-21,2022-09-14,Furniture,Phones,394.65,2,0.3,174.02,West,Florida,Miami,CUST0188,First Class
+2022-08-06,2022-07-17,Technology,Tables,151.91,5,0.1,161.8,East,New York,Houston,CUST0246,Standard Class
+2022-06-09,2022-10-31,Office Supplies,Chairs,414.85,4,0.2,28.79,Central,New York,New York City,CUST0130,First Class
+2022-07-17,2022-01-11,Furniture,Binders,223.39,9,0.0,19.06,South,California,Los Angeles,CUST0283,First Class
+2022-09-04,2022-11-09,Furniture,Tables,340.42,7,0.1,195.41,Central,Florida,New York City,CUST0079,Standard Class
+2022-11-20,2022-10-14,Furniture,Tables,65.86,6,0.3,81.82,West,Florida,Houston,CUST0072,Standard Class
+2022-07-22,2022-08-31,Furniture,Binders,319.45,7,0.3,176.61,South,Texas,Miami,CUST0263,Standard Class
+2022-07-03,2022-09-09,Technology,Phones,236.85,1,0.0,-9.03,Central,Texas,Miami,CUST0191,Second Class
+2022-05-03,2023-01-01,Technology,Accessories,301.57,1,0.3,110.7,West,Florida,New York City,CUST0063,Standard Class
+2022-09-12,2022-01-06,Office Supplies,Tables,100.65,8,0.2,152.47,West,Texas,Houston,CUST0012,Standard Class
+2022-10-21,2022-04-30,Office Supplies,Paper,373.7,2,0.1,186.85,East,California,New York City,CUST0141,Standard Class
+2022-10-07,2022-10-17,Office Supplies,Tables,434.14,9,0.3,34.34,East,Florida,New York City,CUST0254,First Class
+2022-11-21,2022-03-07,Furniture,Accessories,124.04,7,0.3,131.25,East,Texas,Los Angeles,CUST0043,First Class
+2022-04-08,2022-05-27,Furniture,Phones,65.94,6,0.0,84.7,West,New York,New York City,CUST0017,Second Class
+2022-07-17,2022-08-13,Technology,Phones,31.35,1,0.2,-34.84,Central,Florida,Los Angeles,CUST0063,First Class
+2022-08-28,2022-08-28,Furniture,Paper,328.15,1,0.3,122.5,East,Florida,Los Angeles,CUST0253,Second Class
+2022-05-24,2022-06-27,Furniture,Tables,311.41,2,0.0,122.52,Central,New York,Miami,CUST0292,First Class
+2022-04-07,2022-09-25,Furniture,Phones,282.41,6,0.3,182.65,East,California,Los Angeles,CUST0008,Standard Class
+2022-07-20,2022-12-08,Office Supplies,Accessories,131.33,6,0.0,74.33,South,New York,Los Angeles,CUST0090,First Class
+2022-05-04,2022-10-10,Office Supplies,Binders,207.63,2,0.0,7.56,South,Florida,Miami,CUST0208,Second Class
+2022-07-06,2022-03-05,Technology,Chairs,305.35,1,0.2,-38.86,East,California,New York City,CUST0292,First Class
+2022-11-22,2022-08-06,Furniture,Chairs,258.45,5,0.3,53.91,West,Texas,Houston,CUST0284,Standard Class
+2022-12-15,2022-12-09,Furniture,Chairs,494.14,5,0.2,25.48,East,Texas,Houston,CUST0118,Second Class
+2022-09-16,2022-11-12,Technology,Tables,85.49,2,0.0,140.27,East,Texas,Houston,CUST0175,Standard Class
+2022-05-28,2022-10-11,Furniture,Paper,353.67,6,0.1,38.57,West,Florida,New York City,CUST0076,Standard Class
+2022-09-09,2022-06-27,Furniture,Phones,214.07,9,0.3,187.27,South,New York,Los Angeles,CUST0101,Second Class
+2022-12-12,2022-04-09,Office Supplies,Binders,225.54,2,0.1,190.58,Central,California,Houston,CUST0151,Standard Class
+2022-05-27,2022-04-16,Technology,Accessories,364.45,2,0.3,105.23,East,Texas,New York City,CUST0270,Standard Class
+2022-05-28,2022-04-10,Technology,Binders,352.37,3,0.2,182.17,West,California,Los Angeles,CUST0071,First Class
+2022-12-18,2022-11-08,Technology,Accessories,495.8,7,0.2,140.21,East,Florida,Miami,CUST0180,Standard Class
+2022-07-18,2022-01-07,Technology,Tables,81.63,6,0.2,86.71,West,Texas,Houston,CUST0124,Standard Class
+2022-11-04,2022-07-17,Office Supplies,Chairs,69.97,8,0.2,-4.92,Central,Florida,Los Angeles,CUST0293,Standard Class
+2022-05-08,2022-12-18,Office Supplies,Tables,367.68,8,0.2,64.65,Central,New York,Houston,CUST0285,Standard Class
+2022-02-08,2022-05-14,Furniture,Paper,297.63,6,0.1,90.22,South,Florida,Houston,CUST0195,Second Class
+2022-12-04,2022-12-25,Furniture,Paper,151.6,3,0.2,165.99,West,Florida,Houston,CUST0228,First Class
+2022-12-26,2022-09-17,Furniture,Accessories,58.12,3,0.0,70.33,West,New York,Los Angeles,CUST0275,Standard Class
+2022-05-09,2022-01-24,Furniture,Phones,61.12,1,0.0,174.42,South,California,New York City,CUST0106,Standard Class
+2022-09-24,2022-02-23,Office Supplies,Phones,449.21,7,0.1,118.59,South,New York,Los Angeles,CUST0021,Second Class
+2022-05-31,2022-06-15,Technology,Accessories,112.1,5,0.3,-15.75,West,New York,Houston,CUST0064,Standard Class
+2022-10-25,2022-07-22,Office Supplies,Paper,175.22,4,0.0,198.75,South,Florida,Los Angeles,CUST0165,Second Class
+2022-04-09,2022-03-25,Furniture,Paper,128.8,4,0.3,81.81,Central,California,Miami,CUST0027,First Class
+2022-09-20,2022-05-26,Office Supplies,Paper,190.4,4,0.1,47.96,East,Texas,New York City,CUST0285,First Class
+2022-09-09,2022-03-27,Technology,Tables,53.32,6,0.3,114.78,Central,New York,Los Angeles,CUST0148,Standard Class
+2022-05-24,2022-03-20,Technology,Paper,269.15,8,0.3,-22.78,South,California,Miami,CUST0281,Standard Class
+2022-12-12,2023-01-02,Office Supplies,Binders,52.45,8,0.3,109.13,West,New York,New York City,CUST0164,Standard Class
+2022-04-22,2022-01-02,Office Supplies,Chairs,404.17,5,0.3,74.56,West,New York,Miami,CUST0224,Second Class
+2022-03-01,2022-02-21,Office Supplies,Paper,132.18,6,0.1,51.67,Central,New York,New York City,CUST0272,Standard Class
+2022-01-02,2022-06-23,Furniture,Accessories,279.21,4,0.0,188.26,West,New York,Los Angeles,CUST0146,Standard Class
+2022-10-31,2022-07-25,Office Supplies,Chairs,442.44,9,0.2,80.63,South,Florida,Miami,CUST0030,First Class
+2022-09-11,2022-09-18,Office Supplies,Tables,332.42,8,0.3,4.78,Central,California,Houston,CUST0045,Standard Class
+2022-05-20,2023-01-05,Office Supplies,Accessories,275.82,1,0.0,64.74,West,California,Miami,CUST0275,First Class
+2022-02-06,2022-10-16,Technology,Chairs,175.68,2,0.0,179.85,East,California,New York City,CUST0034,Standard Class
+2022-06-09,2022-02-04,Technology,Accessories,179.84,9,0.1,-5.98,East,New York,Los Angeles,CUST0141,First Class
+2022-01-09,2022-12-15,Furniture,Tables,341.35,8,0.0,3.49,South,Florida,New York City,CUST0221,Standard Class
+2022-08-21,2022-04-06,Furniture,Binders,497.19,3,0.1,-46.74,West,New York,Miami,CUST0022,First Class
+2022-04-09,2022-03-14,Technology,Tables,337.68,8,0.3,-46.45,South,New York,Miami,CUST0180,Second Class
+2022-05-27,2022-02-09,Technology,Tables,287.74,1,0.3,157.35,Central,California,Houston,CUST0231,First Class
+2022-10-31,2022-06-04,Technology,Accessories,370.71,4,0.2,133.03,East,New York,Los Angeles,CUST0038,First Class
+2022-07-27,2022-09-08,Office Supplies,Phones,243.3,3,0.2,38.76,Central,Texas,Los Angeles,CUST0070,First Class
+2022-05-11,2022-06-12,Office Supplies,Paper,48.87,6,0.2,124.58,West,New York,Miami,CUST0116,Standard Class
+2022-06-01,2022-04-29,Technology,Paper,289.9,7,0.0,48.8,South,Texas,Los Angeles,CUST0239,Standard Class
+2022-02-23,2022-09-17,Office Supplies,Binders,479.66,4,0.3,188.22,South,New York,Houston,CUST0148,Standard Class
+2022-04-30,2022-11-03,Office Supplies,Binders,104.15,7,0.1,191.76,South,Florida,New York City,CUST0009,Second Class
+2022-06-10,2022-09-26,Furniture,Paper,351.2,9,0.2,48.2,Central,Florida,Los Angeles,CUST0288,Second Class
+2022-04-26,2022-02-24,Technology,Phones,116.45,2,0.1,163.56,East,California,Miami,CUST0050,First Class
+2022-03-16,2022-08-25,Technology,Paper,277.2,3,0.1,143.27,Central,New York,New York City,CUST0005,Second Class
+2022-04-23,2022-08-11,Office Supplies,Phones,66.4,5,0.2,27.5,Central,Texas,New York City,CUST0126,First Class
+2022-04-14,2022-09-09,Technology,Binders,236.18,3,0.3,8.01,West,Texas,Houston,CUST0075,First Class
+2022-12-06,2022-11-10,Furniture,Chairs,382.96,8,0.2,64.56,West,New York,Miami,CUST0165,First Class
+2022-09-11,2022-04-23,Furniture,Accessories,186.83,8,0.1,145.34,West,Texas,Los Angeles,CUST0278,Second Class
+2022-08-15,2022-09-13,Furniture,Binders,339.16,8,0.2,190.04,East,Florida,Miami,CUST0290,Standard Class
+2022-04-22,2022-10-31,Technology,Binders,401.82,9,0.1,140.89,East,Texas,New York City,CUST0077,Second Class
+2022-04-09,2022-07-27,Technology,Tables,465.05,4,0.1,163.8,West,California,Miami,CUST0298,First Class
+2022-06-02,2022-08-18,Technology,Tables,132.63,5,0.2,100.77,West,Florida,Los Angeles,CUST0137,First Class
+2022-12-15,2022-12-08,Technology,Tables,211.67,5,0.0,158.85,East,Florida,Los Angeles,CUST0106,Second Class
+2022-12-04,2022-03-08,Technology,Accessories,93.16,8,0.2,146.11,South,Florida,Houston,CUST0095,First Class
+2022-07-13,2022-03-17,Furniture,Tables,496.39,7,0.0,44.25,East,New York,Los Angeles,CUST0135,First Class
+2022-11-06,2022-04-14,Office Supplies,Phones,464.96,9,0.1,88.0,East,New York,Los Angeles,CUST0068,Second Class
+2022-06-12,2022-07-12,Furniture,Paper,279.18,8,0.1,151.19,East,Florida,Miami,CUST0147,Second Class
+2022-07-27,2022-09-10,Technology,Chairs,424.18,2,0.0,-38.49,West,New York,Miami,CUST0159,Second Class
+2022-06-18,2022-08-15,Furniture,Binders,270.06,4,0.1,152.02,South,Texas,New York City,CUST0163,First Class
+2022-06-10,2022-10-22,Technology,Phones,319.32,6,0.0,-5.53,East,New York,Houston,CUST0189,First Class
+2022-03-09,2022-11-03,Technology,Chairs,62.78,2,0.0,78.67,West,New York,Miami,CUST0095,Standard Class
+2022-10-16,2022-04-09,Furniture,Phones,382.53,7,0.1,152.07,Central,Florida,Los Angeles,CUST0181,Standard Class
+2022-10-04,2022-12-05,Technology,Phones,81.3,3,0.3,13.46,Central,California,New York City,CUST0288,Second Class
+2022-10-31,2022-10-14,Office Supplies,Binders,416.51,3,0.0,11.45,East,California,Miami,CUST0187,Standard Class
+2022-05-15,2022-12-02,Technology,Paper,395.37,2,0.2,50.69,Central,California,Houston,CUST0138,First Class
+2022-07-14,2022-12-14,Office Supplies,Tables,360.2,8,0.2,173.66,South,Texas,Houston,CUST0130,Standard Class
+2022-05-08,2022-11-05,Office Supplies,Accessories,37.36,6,0.1,-49.89,Central,New York,New York City,CUST0194,First Class
+2022-02-02,2022-09-07,Technology,Paper,165.5,1,0.3,175.35,Central,California,New York City,CUST0273,Second Class
+2022-06-25,2022-06-16,Furniture,Accessories,146.29,1,0.1,-11.55,South,Florida,New York City,CUST0144,Second Class
+2022-01-22,2022-12-02,Office Supplies,Binders,192.87,7,0.3,197.52,East,California,New York City,CUST0016,First Class
+2022-08-26,2022-01-31,Furniture,Binders,62.07,8,0.0,188.71,East,California,New York City,CUST0245,Standard Class
+2022-06-07,2022-09-05,Office Supplies,Binders,469.74,5,0.0,73.67,South,New York,Los Angeles,CUST0107,Second Class
+2022-02-07,2022-04-17,Technology,Chairs,285.83,5,0.0,78.18,South,New York,Los Angeles,CUST0088,Second Class
+2022-08-18,2022-02-21,Technology,Accessories,166.65,4,0.0,70.39,South,New York,Miami,CUST0129,Standard Class
+2022-12-31,2022-03-23,Office Supplies,Paper,210.55,6,0.2,108.86,Central,Texas,Houston,CUST0004,Standard Class
+2022-02-20,2022-05-14,Technology,Paper,234.66,6,0.2,-27.32,South,Texas,Los Angeles,CUST0095,First Class
+2022-09-21,2022-10-13,Office Supplies,Phones,308.29,3,0.1,-41.85,West,California,Los Angeles,CUST0209,Standard Class
+2022-10-10,2022-05-19,Technology,Phones,267.53,9,0.3,-35.57,Central,New York,Los Angeles,CUST0225,Standard Class
+2022-01-27,2022-07-04,Furniture,Phones,461.31,7,0.0,61.09,East,California,Miami,CUST0047,Standard Class
+2022-08-14,2022-11-27,Technology,Binders,258.54,1,0.0,18.89,East,Florida,New York City,CUST0181,First Class
+2022-10-04,2022-10-01,Furniture,Paper,496.24,7,0.3,105.51,East,Florida,Miami,CUST0106,First Class
+2022-10-13,2022-12-07,Technology,Accessories,428.68,5,0.3,198.11,Central,New York,Houston,CUST0199,Second Class
+2022-04-07,2022-03-11,Furniture,Binders,120.09,5,0.1,46.58,West,New York,Houston,CUST0106,First Class
+2022-10-11,2022-02-04,Technology,Chairs,466.69,2,0.3,93.46,South,Florida,Houston,CUST0280,Second Class
+2022-11-13,2022-09-20,Furniture,Phones,75.86,4,0.0,53.9,South,New York,Houston,CUST0260,Standard Class
+2022-10-31,2022-02-23,Office Supplies,Binders,412.38,6,0.0,161.82,East,Texas,Los Angeles,CUST0108,Second Class
+2022-05-27,2022-07-25,Office Supplies,Binders,202.7,7,0.0,175.56,East,Texas,Los Angeles,CUST0019,Second Class
+2022-01-04,2022-05-07,Furniture,Chairs,441.43,5,0.0,169.34,Central,New York,Miami,CUST0296,Standard Class
+2022-02-04,2022-08-24,Technology,Tables,436.67,9,0.0,193.59,West,Florida,New York City,CUST0171,Second Class
+2022-07-11,2022-02-13,Furniture,Paper,406.84,3,0.1,-43.12,South,California,Houston,CUST0195,First Class
+2022-02-18,2022-08-29,Technology,Accessories,399.21,1,0.0,159.95,Central,New York,Miami,CUST0012,First Class
+2022-01-17,2022-04-22,Office Supplies,Tables,166.25,4,0.1,137.94,South,New York,Los Angeles,CUST0195,First Class
+2022-06-21,2022-09-07,Technology,Phones,58.84,9,0.0,7.17,East,California,Los Angeles,CUST0283,First Class
+2022-08-08,2022-06-01,Office Supplies,Binders,213.43,4,0.2,189.08,South,New York,New York City,CUST0182,Second Class
+2022-06-07,2022-07-03,Technology,Chairs,103.29,2,0.2,-12.96,West,California,New York City,CUST0144,Second Class
+2022-02-15,2022-12-03,Technology,Chairs,353.58,5,0.2,119.89,West,Florida,New York City,CUST0182,Standard Class
+2022-01-06,2022-04-06,Technology,Paper,186.13,3,0.2,6.22,East,Texas,Miami,CUST0030,Second Class
+2022-04-09,2022-01-09,Furniture,Tables,488.29,9,0.1,57.85,West,Florida,Los Angeles,CUST0084,Second Class
+2022-08-21,2022-12-27,Furniture,Paper,327.67,4,0.1,129.79,West,Texas,Los Angeles,CUST0166,Second Class
+2022-02-06,2022-07-04,Office Supplies,Binders,414.79,6,0.3,90.83,Central,California,New York City,CUST0284,Standard Class
+2022-10-07,2022-10-09,Office Supplies,Paper,83.61,2,0.0,56.88,South,Texas,Houston,CUST0281,First Class
+2022-12-15,2022-07-15,Furniture,Accessories,433.77,6,0.2,31.58,East,Florida,New York City,CUST0096,Second Class
+2022-10-29,2022-12-19,Office Supplies,Chairs,462.92,3,0.1,159.91,East,Texas,Miami,CUST0266,Standard Class
+2022-06-30,2022-07-15,Furniture,Chairs,253.79,9,0.0,-14.05,East,California,New York City,CUST0298,Standard Class
+2022-04-05,2022-06-05,Technology,Phones,311.0,2,0.0,57.53,East,Texas,New York City,CUST0296,Standard Class
+2022-04-09,2022-04-04,Office Supplies,Phones,387.11,9,0.1,175.94,East,New York,Miami,CUST0225,First Class
+2022-07-07,2022-06-10,Office Supplies,Binders,103.92,5,0.2,161.46,West,Florida,New York City,CUST0042,Second Class
+2022-04-26,2022-03-03,Furniture,Accessories,261.23,8,0.3,50.24,Central,New York,Los Angeles,CUST0246,Standard Class
+2022-07-10,2022-05-03,Office Supplies,Tables,211.36,2,0.0,140.78,East,California,Houston,CUST0208,First Class
+2022-09-10,2022-02-21,Office Supplies,Paper,90.26,6,0.3,155.79,Central,Texas,New York City,CUST0237,Standard Class
+2022-06-10,2022-10-05,Technology,Binders,196.42,3,0.2,172.22,Central,New York,Miami,CUST0022,Standard Class
+2022-09-13,2022-01-06,Office Supplies,Phones,52.72,5,0.2,86.13,West,New York,Houston,CUST0185,Standard Class
+2022-11-19,2022-04-03,Technology,Paper,32.39,8,0.3,1.12,East,Texas,Miami,CUST0242,Standard Class
+2022-05-08,2022-06-20,Furniture,Phones,84.88,1,0.2,13.83,West,Texas,Houston,CUST0283,Standard Class
+2022-01-18,2022-11-14,Office Supplies,Paper,482.3,5,0.0,23.92,East,Florida,Houston,CUST0041,First Class
+2022-10-08,2022-01-23,Technology,Tables,283.77,3,0.3,98.45,West,New York,New York City,CUST0162,Second Class
+2022-08-11,2022-11-23,Furniture,Binders,483.59,4,0.2,-41.8,Central,New York,Los Angeles,CUST0160,Second Class
+2022-02-23,2022-01-02,Office Supplies,Paper,227.6,2,0.3,109.01,East,California,New York City,CUST0089,Second Class
+2022-02-27,2022-05-14,Furniture,Accessories,169.67,9,0.0,41.09,South,Florida,Miami,CUST0012,Second Class
+2022-11-19,2022-08-22,Office Supplies,Chairs,262.95,3,0.2,23.81,Central,California,Miami,CUST0073,First Class
+2022-12-26,2022-01-13,Furniture,Accessories,230.97,2,0.0,169.87,South,New York,Houston,CUST0076,First Class
+2022-06-23,2022-12-13,Furniture,Accessories,70.72,9,0.2,65.0,Central,California,Houston,CUST0201,First Class
+2022-10-07,2022-02-16,Technology,Chairs,327.6,7,0.1,-26.24,West,New York,Los Angeles,CUST0010,Standard Class
+2022-04-24,2022-02-04,Furniture,Accessories,123.7,6,0.2,156.69,East,New York,New York City,CUST0226,Standard Class
+2022-10-15,2022-03-20,Office Supplies,Paper,317.4,1,0.3,-38.09,Central,California,Miami,CUST0176,Standard Class
+2022-12-08,2022-08-07,Office Supplies,Paper,332.1,5,0.2,131.69,West,California,Houston,CUST0276,Second Class
+2022-05-31,2022-10-29,Technology,Paper,92.97,3,0.0,143.48,East,Texas,Los Angeles,CUST0039,Standard Class
+2022-05-07,2022-03-15,Office Supplies,Chairs,49.45,1,0.0,38.15,East,Texas,Miami,CUST0060,Second Class
+2022-06-04,2022-10-10,Office Supplies,Accessories,394.77,4,0.2,156.2,Central,Texas,Houston,CUST0066,Standard Class
+2022-09-30,2022-09-07,Office Supplies,Chairs,240.7,2,0.3,78.91,East,New York,Miami,CUST0124,Second Class
+2022-04-14,2022-02-17,Furniture,Paper,47.92,2,0.1,65.82,Central,California,Los Angeles,CUST0164,Standard Class
+2022-10-26,2022-05-02,Furniture,Accessories,497.54,3,0.3,-38.65,East,Florida,Los Angeles,CUST0159,Standard Class
+2022-09-03,2022-08-03,Office Supplies,Accessories,47.73,8,0.1,22.51,South,New York,Miami,CUST0057,First Class
+2022-06-25,2022-08-28,Technology,Phones,353.62,8,0.0,182.75,West,Florida,New York City,CUST0078,Standard Class
+2022-02-08,2022-02-26,Furniture,Phones,492.17,7,0.3,47.96,South,California,Miami,CUST0194,Standard Class
+2022-06-19,2022-12-17,Technology,Tables,134.81,6,0.1,86.68,Central,New York,Houston,CUST0285,First Class
+2022-09-04,2022-04-18,Office Supplies,Binders,88.28,9,0.2,83.01,South,Florida,New York City,CUST0015,Second Class
+2022-01-26,2022-11-16,Office Supplies,Phones,78.26,4,0.0,97.61,Central,Florida,Houston,CUST0012,First Class
+2022-12-21,2022-02-18,Furniture,Chairs,165.57,1,0.2,-34.67,East,Texas,Miami,CUST0101,First Class
+2022-11-02,2022-03-03,Office Supplies,Phones,68.5,8,0.0,40.54,East,Texas,New York City,CUST0156,Second Class
+2022-01-13,2022-12-04,Furniture,Tables,352.24,7,0.3,130.78,Central,Texas,Houston,CUST0125,Standard Class
+2022-11-12,2022-01-27,Office Supplies,Accessories,49.9,7,0.3,0.14,South,New York,Miami,CUST0280,Second Class
+2022-11-09,2022-10-20,Office Supplies,Tables,264.52,3,0.0,0.89,East,California,Miami,CUST0110,Standard Class
+2022-02-05,2022-09-15,Furniture,Accessories,498.41,4,0.0,-47.48,West,California,New York City,CUST0146,Standard Class
+2022-06-22,2022-01-09,Furniture,Accessories,410.71,9,0.0,59.37,East,Texas,Miami,CUST0216,Second Class
+2022-01-20,2022-04-24,Furniture,Binders,315.31,6,0.3,170.68,West,Texas,Los Angeles,CUST0162,First Class
+2022-11-17,2022-12-22,Office Supplies,Phones,167.0,5,0.1,-37.02,South,Texas,Houston,CUST0128,Second Class
+2022-09-21,2022-09-11,Office Supplies,Chairs,319.47,3,0.2,-2.22,West,Florida,Houston,CUST0150,Standard Class
+2022-05-22,2022-06-30,Technology,Chairs,272.98,9,0.2,27.52,West,Texas,Miami,CUST0036,Second Class
+2022-05-23,2022-07-27,Furniture,Paper,224.52,5,0.3,132.93,West,Florida,Miami,CUST0173,Second Class
+2022-04-02,2022-10-31,Office Supplies,Accessories,82.74,5,0.2,110.16,West,California,Los Angeles,CUST0022,Standard Class
+2022-12-20,2022-05-08,Office Supplies,Chairs,445.57,4,0.0,53.99,East,New York,New York City,CUST0206,First Class
+2022-11-18,2022-02-26,Furniture,Binders,235.9,4,0.1,139.77,West,New York,Miami,CUST0127,Second Class
+2022-10-15,2022-08-03,Technology,Accessories,113.42,1,0.2,102.41,East,New York,Miami,CUST0217,Standard Class
+2022-08-03,2022-01-15,Furniture,Binders,196.52,7,0.1,174.01,West,New York,Miami,CUST0096,Standard Class
+2022-12-08,2022-01-29,Technology,Chairs,218.78,9,0.0,154.51,Central,Florida,Miami,CUST0164,Second Class
+2022-02-20,2022-03-20,Office Supplies,Chairs,417.22,3,0.2,13.2,South,Florida,Houston,CUST0148,First Class
+2022-06-02,2022-08-05,Technology,Paper,372.13,2,0.3,17.86,West,Texas,Miami,CUST0018,Second Class
+2022-07-05,2023-01-01,Office Supplies,Chairs,389.27,3,0.1,-18.66,Central,Florida,Houston,CUST0294,First Class
+2022-03-04,2022-06-04,Furniture,Accessories,25.3,1,0.0,34.24,West,Texas,Miami,CUST0195,First Class
+2022-07-09,2022-01-15,Furniture,Accessories,219.75,6,0.1,199.89,West,Texas,New York City,CUST0151,First Class
+2022-05-05,2022-07-07,Furniture,Accessories,251.05,7,0.2,51.44,West,New York,Los Angeles,CUST0123,First Class
+2022-05-30,2022-11-09,Technology,Paper,29.21,2,0.2,5.12,Central,Florida,New York City,CUST0187,Second Class
+2022-11-10,2022-01-08,Office Supplies,Paper,144.71,8,0.3,140.62,South,Florida,Miami,CUST0149,Standard Class
+2022-02-27,2022-01-04,Furniture,Chairs,384.94,6,0.0,85.62,Central,Texas,Miami,CUST0104,Standard Class
+2022-12-08,2022-04-22,Furniture,Tables,85.81,4,0.0,-12.6,South,Texas,Miami,CUST0243,Standard Class
+2022-11-01,2022-08-27,Office Supplies,Tables,276.95,5,0.3,45.17,West,California,New York City,CUST0231,Standard Class
+2022-06-29,2022-12-30,Furniture,Paper,123.3,8,0.3,53.62,East,California,Miami,CUST0206,Standard Class
+2022-06-19,2022-08-28,Office Supplies,Chairs,25.82,3,0.0,138.46,West,Texas,New York City,CUST0198,Standard Class
+2022-11-22,2022-10-02,Office Supplies,Tables,135.78,3,0.1,-44.83,South,California,Houston,CUST0087,Second Class
+2022-09-28,2022-10-22,Office Supplies,Chairs,488.42,4,0.1,17.25,Central,California,Los Angeles,CUST0142,First Class
+2022-02-23,2022-08-16,Office Supplies,Chairs,404.74,1,0.3,79.4,West,Texas,Los Angeles,CUST0199,Standard Class
+2022-04-11,2022-01-16,Office Supplies,Chairs,480.6,9,0.1,17.21,Central,Texas,New York City,CUST0046,Second Class
+2022-09-21,2022-07-12,Technology,Phones,254.17,8,0.0,107.11,Central,Florida,Houston,CUST0288,Standard Class
+2022-02-22,2022-04-30,Furniture,Accessories,72.67,8,0.2,70.47,Central,Texas,New York City,CUST0015,Standard Class
+2022-03-01,2022-01-29,Technology,Chairs,283.02,6,0.2,40.43,West,Texas,Houston,CUST0044,First Class
+2022-04-18,2022-07-22,Furniture,Phones,238.1,7,0.1,187.3,Central,New York,Miami,CUST0169,First Class
+2022-01-05,2022-02-09,Technology,Paper,425.29,6,0.3,108.04,Central,Florida,Houston,CUST0044,First Class
+2022-04-13,2022-10-01,Office Supplies,Tables,67.08,9,0.3,-17.51,West,Florida,Houston,CUST0098,Standard Class
+2022-07-15,2022-08-20,Furniture,Accessories,254.36,3,0.3,90.02,Central,Florida,Houston,CUST0261,Standard Class
+2022-09-19,2022-03-28,Furniture,Tables,92.02,3,0.3,145.18,West,New York,Los Angeles,CUST0109,Standard Class
+2022-12-31,2022-05-07,Technology,Accessories,175.84,3,0.3,127.12,South,Texas,Houston,CUST0283,First Class
+2022-12-16,2022-10-28,Technology,Tables,373.93,3,0.1,-6.98,South,Florida,Miami,CUST0104,Second Class
+2022-02-16,2022-01-26,Furniture,Accessories,248.49,9,0.2,193.1,South,Florida,Miami,CUST0256,Standard Class
+2022-12-21,2022-05-26,Technology,Tables,200.43,4,0.2,62.2,Central,California,Miami,CUST0206,Standard Class
+2022-11-07,2022-01-14,Technology,Tables,209.35,7,0.1,-10.24,East,Florida,Houston,CUST0043,Standard Class
+2022-11-04,2022-08-01,Technology,Tables,240.53,9,0.3,-4.95,East,Texas,New York City,CUST0245,Second Class
+2022-05-24,2022-01-26,Office Supplies,Tables,396.81,7,0.1,-25.44,Central,Texas,New York City,CUST0287,Standard Class
+2022-09-26,2022-03-10,Office Supplies,Paper,448.2,9,0.2,150.88,East,California,Miami,CUST0273,Second Class
+2022-05-04,2022-03-09,Technology,Chairs,478.56,3,0.0,-19.49,West,Florida,Los Angeles,CUST0083,Standard Class
+2022-04-16,2022-08-22,Technology,Binders,397.71,4,0.1,-18.72,East,Florida,New York City,CUST0110,Second Class
+2022-06-07,2022-04-20,Office Supplies,Phones,171.4,8,0.3,162.62,Central,Florida,Houston,CUST0190,Standard Class
+2022-05-27,2022-05-27,Office Supplies,Binders,350.3,6,0.2,36.15,Central,New York,New York City,CUST0288,First Class
+2022-05-25,2022-04-22,Furniture,Binders,230.05,5,0.2,-42.29,West,Florida,Miami,CUST0251,First Class
+2022-04-30,2022-08-17,Furniture,Accessories,142.24,4,0.2,-37.03,South,Texas,Los Angeles,CUST0212,First Class
+2022-11-15,2022-04-22,Office Supplies,Chairs,423.62,8,0.2,-14.46,Central,Texas,New York City,CUST0291,First Class
+2022-10-02,2022-02-04,Technology,Accessories,38.44,1,0.3,3.35,West,New York,New York City,CUST0133,Standard Class
+2022-04-02,2022-04-22,Technology,Chairs,452.85,9,0.0,116.29,East,New York,Miami,CUST0201,First Class
+2022-02-27,2022-09-22,Technology,Chairs,241.51,1,0.2,-10.67,East,Florida,Los Angeles,CUST0285,Second Class
+2022-12-12,2023-01-05,Technology,Tables,325.86,8,0.1,-20.28,West,California,Los Angeles,CUST0095,First Class
+2022-08-17,2022-08-25,Furniture,Paper,336.49,4,0.0,141.18,West,New York,Miami,CUST0278,First Class
+2022-04-27,2022-03-25,Office Supplies,Tables,449.66,9,0.2,117.76,Central,New York,Houston,CUST0219,First Class
+2022-11-14,2022-02-12,Technology,Paper,325.6,5,0.0,58.83,East,Florida,New York City,CUST0089,Standard Class
+2022-10-06,2022-04-12,Furniture,Accessories,314.69,3,0.1,87.33,West,Florida,Houston,CUST0072,First Class
+2022-05-07,2022-01-07,Technology,Paper,51.99,9,0.2,28.0,East,New York,New York City,CUST0247,Second Class
+2022-05-09,2022-06-30,Office Supplies,Accessories,268.84,9,0.1,70.63,West,California,New York City,CUST0129,First Class
+2022-02-27,2022-10-10,Furniture,Binders,92.08,4,0.3,76.67,East,New York,Houston,CUST0212,First Class
+2022-05-02,2022-11-17,Office Supplies,Binders,373.97,4,0.2,46.81,South,Florida,Miami,CUST0096,First Class
+2022-01-01,2022-08-15,Office Supplies,Paper,265.87,8,0.2,176.64,Central,Florida,Miami,CUST0075,Second Class
+2022-08-27,2022-11-12,Furniture,Paper,346.51,2,0.2,-45.98,East,New York,New York City,CUST0054,First Class
+2022-10-17,2023-01-01,Furniture,Accessories,40.0,9,0.2,145.54,South,California,Miami,CUST0054,Second Class
+2022-04-06,2022-08-18,Furniture,Tables,60.7,6,0.3,-18.9,East,New York,New York City,CUST0218,Second Class
+2022-05-06,2022-10-17,Furniture,Accessories,363.84,9,0.2,149.39,East,New York,Miami,CUST0016,First Class
+2022-04-28,2022-05-31,Furniture,Tables,54.6,8,0.0,103.98,South,Florida,New York City,CUST0099,Second Class
+2022-02-17,2022-10-05,Furniture,Binders,54.2,7,0.2,160.82,East,California,Miami,CUST0020,Standard Class
+2022-03-30,2022-07-18,Furniture,Chairs,25.81,1,0.3,-25.62,East,Texas,Los Angeles,CUST0046,First Class
+2022-08-25,2022-03-12,Technology,Paper,479.12,3,0.2,89.75,Central,California,Houston,CUST0193,First Class
+2022-09-29,2022-04-23,Office Supplies,Tables,374.0,2,0.0,75.27,South,New York,Los Angeles,CUST0058,Second Class
+2022-07-08,2022-01-05,Furniture,Accessories,189.56,5,0.3,126.55,South,New York,Houston,CUST0111,Second Class
+2022-07-11,2022-12-17,Technology,Binders,162.34,5,0.3,83.57,West,New York,Houston,CUST0129,First Class
+2022-03-10,2022-11-28,Technology,Tables,187.86,5,0.0,85.18,East,California,New York City,CUST0194,Standard Class
+2022-10-05,2022-11-15,Technology,Accessories,391.83,4,0.0,57.4,Central,Florida,Houston,CUST0008,Second Class
+2022-12-15,2022-12-17,Office Supplies,Paper,337.46,5,0.0,27.21,East,New York,Los Angeles,CUST0029,Second Class
+2022-09-04,2022-04-06,Furniture,Paper,108.89,3,0.0,70.57,East,New York,Los Angeles,CUST0112,Standard Class
+2022-03-17,2022-06-02,Technology,Phones,103.57,1,0.0,-20.38,West,California,Miami,CUST0161,Standard Class
+2022-06-03,2022-11-08,Office Supplies,Chairs,67.23,5,0.3,190.38,East,Texas,Los Angeles,CUST0131,First Class
+2022-05-24,2022-05-18,Office Supplies,Phones,336.95,9,0.3,128.6,Central,Texas,Miami,CUST0188,Standard Class
+2022-03-27,2022-09-05,Office Supplies,Binders,386.9,9,0.2,188.12,Central,Florida,Houston,CUST0163,First Class
+2022-07-04,2022-09-01,Technology,Tables,147.22,4,0.2,6.68,West,Florida,Los Angeles,CUST0197,Standard Class
+2022-10-12,2022-02-01,Furniture,Binders,30.05,3,0.1,169.84,East,New York,Houston,CUST0204,Second Class
+2022-08-08,2022-02-10,Technology,Accessories,59.44,1,0.2,152.2,Central,California,Los Angeles,CUST0212,First Class
+2022-03-10,2022-08-18,Technology,Paper,484.57,2,0.2,119.29,East,New York,Los Angeles,CUST0109,First Class
+2022-02-16,2022-02-06,Furniture,Phones,161.81,8,0.0,106.26,East,Florida,Miami,CUST0276,First Class
+2022-04-04,2022-08-12,Furniture,Phones,389.23,1,0.0,29.14,East,California,Houston,CUST0073,Standard Class
+2022-08-26,2022-01-07,Furniture,Phones,319.84,8,0.2,154.1,West,California,Los Angeles,CUST0167,Second Class
+2022-07-23,2022-11-19,Office Supplies,Binders,203.33,7,0.1,75.38,East,Florida,New York City,CUST0260,First Class
+2022-08-06,2022-08-09,Furniture,Paper,118.73,8,0.0,-32.28,Central,Texas,Houston,CUST0243,First Class
+2022-12-07,2022-03-17,Technology,Tables,78.27,6,0.2,28.22,East,Texas,Houston,CUST0275,First Class
+2022-02-08,2022-01-05,Furniture,Accessories,315.21,9,0.2,183.82,Central,California,Houston,CUST0102,First Class
+2022-04-10,2022-12-02,Technology,Tables,391.82,3,0.3,162.67,East,New York,Miami,CUST0173,Second Class
+2022-10-16,2022-05-15,Office Supplies,Binders,329.07,4,0.1,195.48,Central,Texas,New York City,CUST0171,Standard Class
+2022-09-11,2022-04-29,Technology,Accessories,274.55,6,0.3,107.0,Central,New York,Houston,CUST0141,Second Class
+2022-08-10,2023-01-05,Technology,Phones,40.14,8,0.1,11.88,East,Texas,Los Angeles,CUST0188,First Class
+2022-12-23,2022-04-05,Furniture,Chairs,484.87,5,0.0,-9.3,East,Texas,Los Angeles,CUST0086,Second Class
+2022-01-23,2022-03-04,Furniture,Binders,403.38,3,0.1,-3.27,Central,New York,Miami,CUST0052,First Class
+2022-09-07,2022-07-14,Technology,Binders,160.55,6,0.2,-45.05,South,Florida,Los Angeles,CUST0111,Standard Class
+2022-01-10,2022-12-02,Furniture,Paper,490.39,4,0.2,47.67,West,Texas,Houston,CUST0043,Standard Class
+2022-09-03,2022-07-23,Office Supplies,Tables,308.9,9,0.1,-2.14,South,Texas,Los Angeles,CUST0211,Standard Class
+2022-11-21,2022-01-27,Office Supplies,Binders,299.56,3,0.1,52.91,South,New York,Houston,CUST0200,First Class
+2022-04-10,2022-06-23,Furniture,Binders,379.08,4,0.1,183.75,East,Florida,Los Angeles,CUST0298,Second Class
+2022-10-17,2022-10-28,Office Supplies,Phones,409.65,7,0.3,57.64,West,Texas,New York City,CUST0240,Standard Class
+2022-06-29,2022-05-14,Furniture,Phones,335.11,7,0.1,169.5,South,Texas,Miami,CUST0115,First Class
+2022-08-11,2022-11-23,Technology,Accessories,81.49,4,0.0,101.38,East,Florida,Miami,CUST0026,First Class
+2022-09-07,2022-04-29,Technology,Chairs,182.37,6,0.3,11.78,South,Texas,New York City,CUST0299,Second Class
+2022-05-27,2022-11-21,Office Supplies,Paper,465.48,3,0.3,38.96,South,Florida,New York City,CUST0077,Standard Class
+2022-04-06,2022-10-03,Furniture,Chairs,127.82,6,0.1,-29.02,East,Florida,Miami,CUST0137,First Class
+2022-09-14,2022-08-01,Furniture,Accessories,198.64,2,0.0,33.37,East,New York,New York City,CUST0020,Second Class
+2022-11-21,2022-08-14,Office Supplies,Phones,227.4,8,0.3,119.39,East,California,Houston,CUST0211,Standard Class
+2022-01-04,2022-01-21,Technology,Tables,230.91,2,0.2,-31.97,West,Florida,Los Angeles,CUST0240,Second Class
+2022-01-16,2022-04-24,Office Supplies,Phones,314.21,7,0.3,1.35,South,New York,Miami,CUST0039,Second Class
+2022-10-07,2022-05-21,Technology,Paper,472.68,9,0.1,45.36,East,California,New York City,CUST0268,First Class
+2022-12-02,2022-02-17,Furniture,Phones,135.53,1,0.0,195.51,Central,Texas,Houston,CUST0207,First Class
